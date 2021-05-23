@@ -1,4 +1,4 @@
-# utsabsenmahasiswaapi-vueui
+# laravelabsenapi-vueui
 
 ## Project setup
 ```
